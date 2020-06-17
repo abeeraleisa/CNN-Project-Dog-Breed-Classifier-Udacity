@@ -24,7 +24,7 @@ Along with exploring state-of-the-art CNN models for classification, a series of
 
 Step 0: Import Datasets
 
-Step 1: Detect Humans using OpenCV's implementation of [Haar feature-based cascade classifiers]http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
+Step 1: Detect Humans using OpenCV's implementation of [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
 
 Step 2: Detect Dogs using Pre-trained VGG-16 Model
 
