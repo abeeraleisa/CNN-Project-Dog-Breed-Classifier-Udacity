@@ -30,8 +30,8 @@ Step 2: Detect Dogs using Pre-trained VGG-16 Model
 
 Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
 
-Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning) using Pre-trained VGG-19 Model
 
-Step 5: Write your Algorithm
+Step 5: Writing the Algorithm
 
-Step 6: Test Your Algorithm
+Step 6: Testing the Algorithm
