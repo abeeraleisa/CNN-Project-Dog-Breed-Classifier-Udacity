@@ -1,5 +1,5 @@
-Project Overview:
-------------   
+# Project Overview:
+
 
 In this project I have learned how to build a pipeline to process real-world, user-supplied images. Given an image of a dog, my algorithm will identify the resembling dog breed.
 
@@ -11,23 +11,6 @@ This is a repo for the Dog Breed Classifier Project  in Udacity Nanodegree
 It is implemented by using PyTorch library.
 
 **Udacity's original repo is [here](https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-dog-classification)**
-
-
-REQUIREMENTS
-------------
-
-This module requires the following modules:
-
- *  numpy 
- *  glob
- *  cv2  
- *  matplotlib
- *  tqdm 
- *  torch
- *  PIL
- *  torchvision
- *  os
-
 
 
 ## Import Datasets
