@@ -20,18 +20,18 @@ Along with exploring state-of-the-art CNN models for classification, a series of
 * Download the [dog dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip)
 * Download the [human_dataset](https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/lfw.zip)
 
-## Project steps
+# Project steps
 
-Step 0: Import Datasets
+## Step 0: Import Datasets
 
-Step 1: Detect Humans using OpenCV's implementation of [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
+## Step 1: Detect Humans using OpenCV's implementation of [Haar feature-based cascade classifiers](http://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html) to detect human faces in images.
 
-Step 2: Detect Dogs using Pre-trained VGG-16 Model
+## Step 2: Detect Dogs using Pre-trained VGG-16 Model
 
-Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
+## Step 3: Create a CNN to Classify Dog Breeds (from Scratch)
 
-Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
+## Step 4: Create a CNN to Classify Dog Breeds (using Transfer Learning)
 
-Step 5: Write your Algorithm
+## Step 5: Write your Algorithm
 
-Step 6: Test Your Algorithm
+## Step 6: Test Your Algorithm
